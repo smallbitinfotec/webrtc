@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5850636153",
+    "firebase_url": "https://webrtc-8cf99.firebaseio.com",
+    "project_id": "webrtc-8cf99",
+    "storage_bucket": "webrtc-8cf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5850636153:android:43c66ab029434714",
+        "android_client_info": {
+          "package_name": "com.example.webrtc.sample.webrtcvideochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5850636153-2j6lvdpg8f0ihukgernl2v10nfbvb0tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VhwPmskPPrq_qoh78iMPhzMtKn_4CtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5850636153-2j6lvdpg8f0ihukgernl2v10nfbvb0tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
